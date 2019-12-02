@@ -1,6 +1,6 @@
 import csv
 
-from dagster import execute_pipeline, execute_solid, pipeline, solid
+from dagster import pipeline, solid
 
 
 @solid
